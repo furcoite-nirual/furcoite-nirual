@@ -2,9 +2,7 @@ grace.
 
 
 <details>
-  <summary>
-    <samp>stats</samp>
-  </summary>
+  <samp>stats</samp>
   <br>
   <p align='center'>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=furcoite-nirual&count_private=true&show_icons=true&theme=monokai" />
