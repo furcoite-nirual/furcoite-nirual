@@ -1,4 +1,4 @@
-<div style="margin: auto; width: 50%; border: 3px solid green; padding: 10px;">
+<div id="header" align="center">
   
 ![furcoite-nirual's Stats](https://github-readme-stats.vercel.app/api?username=furcoite-nirual&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
