@@ -1,4 +1,1 @@
-<div id="header" align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=furcoite-nirual&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-<img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=furcoite-nirual&theme=tokyonight&hide_border=true"/>
-</div>
+<img src="https://cdn.discordapp.com/attachments/1051905528542011393/1274348979584368712/Comp_1.gif?ex=66c1ed78&is=66c09bf8&hm=e33626ec041ed7f02b86b279172c725b8282397a68247470b4ebd4b6a78209e1&"/>
